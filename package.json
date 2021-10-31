@@ -1,0 +1,23 @@
+{
+  "name": "react-hal-forms",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@types/json-schema": "^7.0.9",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react": "^1.0.0",
+    "axios": "^0.24.0",
+    "eventemitter2": "^6.4.5",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  }
+}
